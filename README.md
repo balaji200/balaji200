@@ -2,7 +2,7 @@
 
 <h2>🕵🏻 cyber security Projects:</h2>
 
-  - [vulnerablity management using nessus](https://github.com/balaji200/LABURL)
+  - [vulnerablity management using nessus](https://github.com/balaji200/nessus-vulnerablity-management.git)
 
 
 <h2> 🤳 Connect with me:</h2>
