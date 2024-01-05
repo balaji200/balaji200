@@ -3,6 +3,8 @@
 <h2>🕵🏻 cyber security Projects:</h2>
 
   - [vulnerablity management using nessus](https://github.com/balaji200/nessus-vulnerablity-management.git)
+  - [Active Directory Home Lab](https://github.com/balaji200/active-directory-home-lab)
+  - [Sentinel Guardian](https://github.com/balaji200/SentinelGuardian)
 
 
 <h2> 🤳 Connect with me:</h2>
